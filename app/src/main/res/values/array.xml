@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="rute">
+        <item>Semarang - Cilacap</item>
+        <item>Semarang - Yogyakarta</item>
+        <item>Semarang - Brebes</item>
+        <item>Semarang - Rembang</item>
+        <item>Semarang - Surakarta</item>
+    </string-array>
+
+    <string-array name="kota">
+        <item>Banyumas</item>
+        <item>Batang</item>
+        <item>Boyolali</item>
+        <item>Brebes</item>
+        <item>Cilacap</item>
+        <item>Demak</item>
+        <item>Kebumen</item>
+        <item>Kendal</item>
+        <item>Kudus</item>
+        <item>Magelang</item>
+        <item>Pati</item>
+        <item>Pekalongan</item>
+        <item>Pemalang</item>
+        <item>Purbalingga</item>
+        <item>Purworejo</item>
+        <item>Rembang</item>
+        <item>Salatiga</item>
+        <item>Semarang</item>
+        <item>Surakarta</item>
+        <item>Tegal</item>
+        <item>Temanggung</item>
+        <item>Wonosobo</item>
+        <item>Yogyakarta</item>
+        <item>Banjarnegara</item>
+    </string-array>
+
+    <string-array name="rute1">
+        <item id="18">Semarang</item>
+        <item>Temanggung</item>
+        <item>Wonosobo</item>
+        <item id="24">Banjarnegara</item>
+        <item>Purbalingga</item>
+        <item>Banyumas</item>
+        <item>Kebumen</item>
+        <item>Cilacap</item>
+    </string-array>
+
+    <string-array name="rute2">
+        <item>Semarang</item>
+        <item>Salatiga</item>
+        <item>Magelang</item>
+        <item>Purworejo</item>
+        <item>Yogyakarta</item>
+    </string-array>
+
+    <string-array name="rute3">
+        <item>Semarang</item>
+        <item>Kendal</item>
+        <item>Batang</item>
+        <item>Pekalongan</item>
+        <item>Pemalang</item>
+        <item>Tegal</item>
+        <item>Brebes</item>
+    </string-array>
+
+    <string-array name="rute4">
+        <item>Semarang</item>
+        <item>Demak</item>
+        <item>Kudus</item>
+        <item>Pati</item>
+        <item>Rembang</item>
+    </string-array>
+
+    <string-array name="rute5">
+        <item>Semarang</item>
+        <item>Boyolali</item>
+        <item>Surakarta</item>
+    </string-array>
+
+    <string-array name="waktu">
+        <item>07.00</item>
+        <item>10.00</item>
+        <item>13.00</item>
+        <item>16.00</item>
+        <item>19.00</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Widya Travel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dekripsi_widyaapps">Aplikasi Pemesanan Rent Car dan Individual Trip Widya Travel untuk Customer</string>
+    <string name="help1">Car Rent ialah pemesanan travel yang dihitung permobil, jadi costumer memesan minimal satu mobil. Sedangkan, Individual Trip ialah pemesanan travel yang dihitung perorang</string>
+    <string name="help2">Costumer memilih salah satu dari 2 jenis Travel yang tersedia di halaman Home, masukan data yang diminta. Apabila  Pesanan Travel yang diminta costumer ada, maka costumer akan mendapat detail pemesanan</string>
+    <string name="help3">Pada saat costumer selesai memesan travel, driver yang akan menjemput costumer akan terlihat</string>
+    <string name="help4">Costumer masuk ke halaman order, dihalaman tersebut akan terlihat pesanan yang telah dipesan, sedang diproses dan pesanan yang telah selesai</string>
+    <string name="terms_and_conditions">
+        SYARAT PENGGUNAAN DI BAWAH INI HARUS DIBACA SEBELUM MENGGUNAKAN SITUS INI. PENGGUNAAN APLIKASI INI MENUNJUKKAN PENERIMAAN DAN KEPATUHAN TERHADAP SYARAT DAN KETENTUAN DI BAWAH INI.
+        \n\nAplikasi WidyaApps dikelola oleh Andromeda ("kami"). Dengan mengakses dan/atau menggunakan Aplikasi, Anda mengakui bahwa Anda telah membaca dan memahami, dan menyetujui untuk terikat oleh Syarat Penggunaan yang ditetapkan di bawah ini dan syarat dan ketentuan lainnya dalam kaitannya dengan Situs, termasuk namun tidak terbatas pada kerahasiaan dan FAQ, yang merupakan bagian yang tidak terpisahkan dari Syarat Penggunaan ("Syarat"). Anda harus setidaknya berusia delapan belas (18) tahun untuk menggunakan Situs ini.
+        \n\nHarap diketahui bahwa kami dapat mengubah, memodifikasi, menambah dan menghapus Syarat ini sewaktu-waktu tanpa pemberitahuan sebelumnya. Syarat harus dibaca secara berkala. Dengan terus menggunakan Situs ini setelah perubahan tersebut terhadap Syarat, pengunjung, pengguna atau Pengguna Terdaftar ("Anda" atau "pengguna") sepakat dan menyetujui perubahan. Jika Anda menggunakan salah satu layanan kami yang lain, maka penggunaan Anda didasarkan pada kepatuhan dan penerimaan terhadap syarat dan ketentuan yang berlaku untuk layanan tersebut.
+    </string>
+</resources>
